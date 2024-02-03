@@ -1,0 +1,366 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V12.0
+! INFO-      
+! INFO-     Start of Translation: 2-FEB-2024  11:00:40 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\Sazewar\Desktop\Penchewriak\Penchewriak\MX-64T_stp_1.stp
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        MX-64T_stp_1.stp
+! SUMMARY-  Date             2024-02-01T17:19:05+03:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v19.4
+! SUMMARY-  Orig_System      SIEMENS PLM Software NX2306.5001
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:    935
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   1444
+! SUMMARY-  b_spline_curve_with_knots ..................................:    322
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:      6
+! SUMMARY-  b_spline_surface_with_knots ................................:     27
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:      4
+! SUMMARY-  cartesian_point ............................................: 135964
+! SUMMARY-  circle .....................................................:    478
+! SUMMARY-  closed_shell ...............................................:     21
+! SUMMARY-  conical_surface ............................................:     37
+! SUMMARY-  context_dependent_shape_representation .....................:      7
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:    297
+! SUMMARY-  dimensional_exponents ......................................:      1
+! SUMMARY-  direction ..................................................:   4445
+! SUMMARY-  edge_curve .................................................:   2411
+! SUMMARY-  edge_loop ..................................................:   1136
+! SUMMARY-  ellipse ....................................................:     60
+! SUMMARY-  face_bound .................................................:    343
+! SUMMARY-  face_outer_bound ...........................................:    793
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      6
+! SUMMARY-  item_defined_transformation ................................:      7
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:   1551
+! SUMMARY-  manifold_solid_brep ........................................:     21
+! SUMMARY-  next_assembly_usage_occurrence .............................:      7
+! SUMMARY-  oriented_edge ..............................................:   4822
+! SUMMARY-  plane ......................................................:    525
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      6
+! SUMMARY-  product_context ............................................:      6
+! SUMMARY-  product_definition .........................................:      6
+! SUMMARY-  product_definition_context .................................:      6
+! SUMMARY-  product_definition_formation_with_specified_source .........:      6
+! SUMMARY-  product_definition_shape ...................................:     13
+! SUMMARY-  product_related_product_category ...........................:      6
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:      7
+! SUMMARY-  shape_representation .......................................:      6
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:      8
+! SUMMARY-  surface_of_linear_extrusion ................................:      6
+! SUMMARY-  toroidal_surface ...........................................:     31
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      6
+! SUMMARY-  vector .....................................................:   1557
+! SUMMARY-  vertex_point ...............................................:   1595
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         158941
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 2-FEB-2024 11:00:41 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 2-FEB-2024  11:00:41 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3134
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\Sazewar\Desktop\Penchewriak\Penchewriak\clutch
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 2-FEB-2024  11:00:41 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3135
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\Sazewar\Desktop\Penchewriak\Penchewriak\worm
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 2-FEB-2024  11:00:42 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3136
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\Sazewar\Desktop\Penchewriak\Penchewriak\base
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 2-FEB-2024  11:00:42 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3137
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\Sazewar\Desktop\Penchewriak\Penchewriak\wheel
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 2-FEB-2024  11:00:45 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3138
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3139
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3140
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3141
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3142
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3143
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3144
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3145
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3146
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3147
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3148
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3149
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3150
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3151
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3152
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3153
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\Sazewar\Desktop\Penchewriak\Penchewriak\cap
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:    16
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             16
+! STATUS-   Creating the UG part (Phase 3 of 3): 2-FEB-2024  11:00:45 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3133
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\Sazewar\Desktop\Penchewriak\Penchewriak\MX-64T_stp_1_stp.prt
+! ERROR-    Unable to archive C:\Users\Sazewar\Desktop\Penchewriak\Penchewriak\MX-64T_stp_1_stp.prt:
+! ERROR-     
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     7
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              8
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        21
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        21
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 2-FEB-2024  11:00:46 PM
+! INFO-      
