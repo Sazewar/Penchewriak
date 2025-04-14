@@ -1,0 +1,151 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V12.0
+! INFO-      
+! INFO-     Start of Translation: 14-APR-2025  3:26:13 AM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\user\Desktop\Alexey drone\M5 Lock nut.STEP
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP203
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        M5 Lock nut.STEP
+! SUMMARY-  Date             2020-12-15T12:25:40
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      SwSTEP 2.0
+! SUMMARY-  Orig_System      SolidWorks 2019
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        ap203_configuration_controlled_3d_design_of_mechanical_parts_and_assemblies_mim_lf
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:     91
+! SUMMARY-  application_context ........................................:      2
+! SUMMARY-  approval ...................................................:      3
+! SUMMARY-  approval_date_time .........................................:      3
+! SUMMARY-  approval_person_organization ...............................:      3
+! SUMMARY-  approval_role ..............................................:      3
+! SUMMARY-  approval_status ............................................:      3
+! SUMMARY-  axis2_placement_3d .........................................:    108
+! SUMMARY-  b_spline_curve_with_knots ..................................:     56
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:     20
+! SUMMARY-  b_spline_surface_with_knots ................................:     17
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:      3
+! SUMMARY-  calendar_date ..............................................:      5
+! SUMMARY-  cartesian_point ............................................:   3322
+! SUMMARY-  cc_design_approval .........................................:      3
+! SUMMARY-  cc_design_date_and_time_assignment .........................:      2
+! SUMMARY-  cc_design_person_and_organization_assignment ...............:      5
+! SUMMARY-  cc_design_security_classification ..........................:      1
+! SUMMARY-  circle .....................................................:     36
+! SUMMARY-  closed_shell ...............................................:      1
+! SUMMARY-  conical_surface ............................................:      4
+! SUMMARY-  coordinated_universal_time_offset ..........................:      5
+! SUMMARY-  cylindrical_surface ........................................:     17
+! SUMMARY-  date_and_time ..............................................:      5
+! SUMMARY-  date_time_role .............................................:      2
+! SUMMARY-  design_context .............................................:      1
+! SUMMARY-  direction ..................................................:    336
+! SUMMARY-  edge_curve .................................................:    232
+! SUMMARY-  edge_loop ..................................................:    102
+! SUMMARY-  face_bound .................................................:     11
+! SUMMARY-  face_outer_bound ...........................................:     91
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      1
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:    120
+! SUMMARY-  local_time .................................................:      5
+! SUMMARY-  manifold_solid_brep ........................................:      1
+! SUMMARY-  mechanical_context .........................................:      1
+! SUMMARY-  organization ...............................................:      1
+! SUMMARY-  oriented_edge ..............................................:    464
+! SUMMARY-  person .....................................................:      1
+! SUMMARY-  person_and_organization ....................................:      8
+! SUMMARY-  person_and_organization_role ...............................:      5
+! SUMMARY-  plane ......................................................:     44
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_formation_with_specified_source .........:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  security_classification ....................................:      1
+! SUMMARY-  security_classification_level ..............................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  toroidal_surface ...........................................:      6
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      1
+! SUMMARY-  vector .....................................................:    120
+! SUMMARY-  vertex_point ...............................................:    152
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                           5433
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 14-APR-2025 3:26:14 AM
+! STATUS-    
+! INFO-     CV : STEP Ent Id       2955 violates STEP standard
+! INFO-     Invalid toroidal_surface definition. 
+! INFO-     Major radius less than 0.  Attempting to create a degenerate 
+! INFO-     toroidal surface.  Assuming it is a lemon-shaped toroidal surface. 
+! INFO-     Recommend trying a STEP file based on an AP (e.g. AP214 STEP file) 
+! INFO-     which supports degenerate_toroidal_surfaces. 
+! INFO-      
+! INFO-     CV : STEP Ent Id       1900 violates STEP standard
+! INFO-     Invalid toroidal_surface definition. 
+! INFO-     Major radius less than 0.  Attempting to create a degenerate 
+! INFO-     toroidal surface.  Assuming it is a lemon-shaped toroidal surface. 
+! INFO-     Recommend trying a STEP file based on an AP (e.g. AP214 STEP file) 
+! INFO-     which supports degenerate_toroidal_surfaces. 
+! INFO-      
+! INFO-     CV : STEP Ent Id       4281 violates STEP standard
+! INFO-     Invalid toroidal_surface definition. 
+! INFO-     Major radius less than 0.  Attempting to create a degenerate 
+! INFO-     toroidal surface.  Assuming it is a lemon-shaped toroidal surface. 
+! INFO-     Recommend trying a STEP file based on an AP (e.g. AP214 STEP file) 
+! INFO-     which supports degenerate_toroidal_surfaces. 
+! INFO-      
+! INFO-     CV : STEP Ent Id       1373 violates STEP standard
+! INFO-     Invalid toroidal_surface definition. 
+! INFO-     Major radius less than 0.  Attempting to create a degenerate 
+! INFO-     toroidal surface.  Assuming it is a lemon-shaped toroidal surface. 
+! INFO-     Recommend trying a STEP file based on an AP (e.g. AP214 STEP file) 
+! INFO-     which supports degenerate_toroidal_surfaces. 
+! INFO-      
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  3:26:14 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 3777
+! STATUS-    
+! INFO-     Degeneracy in b-spline entity 1159 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -0.000002 -0.510000 -2.575000
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M5 Lock nut_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         1
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         1
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 14-APR-2025  3:26:16 AM
+! INFO-      

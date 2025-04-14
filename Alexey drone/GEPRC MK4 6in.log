@@ -1,0 +1,1227 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V12.0
+! INFO-      
+! INFO-     Start of Translation: 14-APR-2025  1:20:49 AM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\user\Desktop\Alexey drone\GEPRC MK4 6in.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        GEPRC MK4 6in.step
+! SUMMARY-  Date             2024-08-13T10:04:09-07:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v20
+! SUMMARY-  Orig_System      Autodesk Translation Framework v13.14.0.145
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:  25601
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:  26750
+! SUMMARY-  b_spline_curve_with_knots ..................................:  21341
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    612
+! SUMMARY-  b_spline_surface_with_knots ................................:  11536
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:     61
+! SUMMARY-  cartesian_point ............................................: 598776
+! SUMMARY-  circle .....................................................:   4508
+! SUMMARY-  closed_shell ...............................................:     53
+! SUMMARY-  conical_surface ............................................:    324
+! SUMMARY-  context_dependent_shape_representation .....................:     37
+! SUMMARY-  cylindrical_surface ........................................:   5725
+! SUMMARY-  direction ..................................................:  81471
+! SUMMARY-  edge_curve .................................................:  62594
+! SUMMARY-  edge_loop ..................................................:  26679
+! SUMMARY-  ellipse ....................................................:   8162
+! SUMMARY-  face_bound .................................................:   1078
+! SUMMARY-  face_outer_bound ...........................................:  25601
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     39
+! SUMMARY-  item_defined_transformation ................................:     37
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:  27971
+! SUMMARY-  manifold_solid_brep ........................................:     53
+! SUMMARY-  next_assembly_usage_occurrence .............................:     37
+! SUMMARY-  oriented_edge ..............................................: 125188
+! SUMMARY-  plane ......................................................:   7931
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:     38
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:     38
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation ...............................:     38
+! SUMMARY-  product_definition_shape ...................................:     75
+! SUMMARY-  product_related_product_category ...........................:     38
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:     37
+! SUMMARY-  shape_representation .......................................:     38
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:     12
+! SUMMARY-  toroidal_surface ...........................................:     12
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     39
+! SUMMARY-  vector .....................................................:  27971
+! SUMMARY-  vertex_point ...............................................:  37863
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                        1128370
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 14-APR-2025 1:20:55 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:20:58 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1030
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1031
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1032
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1033
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\GEPRC Mk4 6in Arms
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:20:58 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1029
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Bottom Plate1128730
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:20:59 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1027
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1028
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Arm Plate1128729
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:20:59 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1026
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Top Plate (1)1128728
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:20:59 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1024
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1025
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Cam Plates1128727
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:20:59 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1023
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Chin Plate1128726
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:20:59 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1022
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Tail Plate1128725
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:20:59 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1018
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1019
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1020
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1021
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x8 Flush Screw x41128723
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:21:07 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1010
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1011
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1012
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1013
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1014
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1015
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1016
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1017
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x6 Flush Screw x81128722
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              8
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:21:15 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1009
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3 Nut v1(Mirror)(Mirror)1128721
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:21:16 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1008
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   fixing self-intersecting topology faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x25 Cap Screw (2)(Mirror)(Mirror)1128720
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:21:24 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1007
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3 Nut v1(Mirror) (1)1128719
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:21:25 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1006
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   fixing self-intersecting topology faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x25 Cap Screw (2)(Mirror) (1)1128718
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:21:53 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1005
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3 Nut v1(Mirror)1128717
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:21:53 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1004
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   fixing self-intersecting topology faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x25 Cap Screw (2)(Mirror)1128716
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:24 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1003
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3 Nut v11128715
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:25 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1002
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   fixing self-intersecting topology faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x25 Cap Screw (2)1128714
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:32 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1001
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x10 Cap Screw (1)(Mirror)(Mirror)1128712
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:38 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1000
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x10 Cap Screw (1)(Mirror) (1)1128711
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:43 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 999
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x10 Cap Screw (1)(Mirror)1128710
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:48 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 998
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x10 Cap Screw (1)1128709
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:54 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 997
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3 Insert(Mirror)(Mirror)1128707
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:55 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 996
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3 Insert(Mirror) (1)1128706
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:56 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 995
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3 Insert(Mirror)1128705
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:57 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 994
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3 Insert1128704
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:22:58 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 993
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x14 Cap Screw(Mirror)(Mirror)1128702
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:23:08 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 992
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x14 Cap Screw(Mirror) (1)1128701
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:23:18 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 991
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x14 Cap Screw(Mirror)1128700
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:23:27 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 990
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x14 Cap Screw1128699
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:23:37 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 989
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Battery Pad1128696
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:23:49 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 981
+! STATUS-    
+! INFO-     Degeneracy in b-spline entity 87097 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         15.074243 70.098812 -21.391581
+! INFO-     Degeneracy in b-spline entity 87105 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         16.378752 67.933109 -20.635294
+! INFO-     Degeneracy in b-spline entity 87141 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         16.385623 70.062489 -15.475988
+! INFO-     Degeneracy in b-spline entity 87141 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         16.385312 70.062689 -15.475964
+! INFO-     Degeneracy in b-spline entity 87217 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         16.053256 67.785846 -5.157853
+! INFO-     Degeneracy in b-spline entity 87217 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         16.053610 67.785949 -5.157830
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   fixing self-intersecting topology faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body contains fault: 13823 - RTSTES: Edge not on surface.
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body contains fault: 13823 - RTSTES: Edge not on surface.
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body (Body1) contains faults that could not be corrected
+! WARNING-   
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 982
+! STATUS-    
+! INFO-     Degeneracy in b-spline entity 89642 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.230086 70.173943 -22.460684
+! INFO-     Degeneracy in b-spline entity 89642 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.230401 70.174069 -22.460663
+! INFO-     Degeneracy in b-spline entity 89663 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -16.338310 67.908432 -19.724885
+! INFO-     Degeneracy in b-spline entity 89663 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -16.337836 67.908155 -19.724851
+! INFO-     Degeneracy in b-spline entity 89669 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -16.329444 70.096705 -18.888922
+! INFO-     Degeneracy in b-spline entity 89669 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -16.329469 70.096690 -18.888920
+! INFO-     Degeneracy in b-spline entity 89669 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -16.329494 70.096676 -18.888918
+! INFO-     Degeneracy in b-spline entity 89669 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -16.329518 70.096662 -18.888917
+! INFO-     Degeneracy in b-spline entity 89691 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.357703 70.217289 -15.952198
+! INFO-     Degeneracy in b-spline entity 89696 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.359273 67.782271 -15.158673
+! INFO-     Degeneracy in b-spline entity 89696 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.359186 67.782295 -15.158667
+! INFO-     Degeneracy in b-spline entity 89731 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.019225 70.065601 -10.475625
+! INFO-     Degeneracy in b-spline entity 89731 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.019248 70.065616 -10.475623
+! INFO-     Degeneracy in b-spline entity 89731 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.019271 70.065630 -10.475621
+! INFO-     Degeneracy in b-spline entity 89731 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.019293 70.065645 -10.475620
+! INFO-     Degeneracy in b-spline entity 89731 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.019206 70.065589 -10.475626
+! INFO-     Degeneracy in b-spline entity 89731 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -15.020107 70.066164 -10.475559
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   fixing self-intersecting topology faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body contains fault: 13823 - RTSTES: Edge not on surface.
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body contains fault: 13823 - RTSTES: Edge not on surface.
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body (Body2) contains faults that could not be corrected
+! WARNING-   
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 983
+! STATUS-    
+! INFO-     Degeneracy in b-spline entity 92205 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         8.874184 -86.312586 -21.391578
+! INFO-     Degeneracy in b-spline entity 92250 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         10.185623 -86.348877 -15.475988
+! INFO-     Degeneracy in b-spline entity 92250 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         10.185313 -86.348677 -15.475965
+! INFO-     Degeneracy in b-spline entity 92274 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         8.869271 -88.507331 -12.221940
+! INFO-     Degeneracy in b-spline entity 92274 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         8.869296 -88.507345 -12.221938
+! INFO-     Degeneracy in b-spline entity 92280 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         8.863066 -86.318994 -11.390770
+! INFO-     Degeneracy in b-spline entity 92280 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         8.862867 -86.319109 -11.390756
+! INFO-     Degeneracy in b-spline entity 92293 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         8.872960 -88.509445 -9.724067
+! INFO-     Degeneracy in b-spline entity 92293 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         8.873454 -88.509727 -9.724031
+! INFO-     Degeneracy in b-spline entity 92327 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         9.853484 -88.625453 -5.157838
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   fixing self-intersecting topology faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body contains fault: 13823 - RTSTES: Edge not on surface.
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body contains fault: 13823 - RTSTES: Edge not on surface.
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body (Body3) contains faults that could not be corrected
+! WARNING-   
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 984
+! STATUS-    
+! INFO-     Degeneracy in b-spline entity 94726 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -9.145128 -86.197682 -25.953022
+! INFO-     Degeneracy in b-spline entity 94774 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -10.138317 -88.502929 -19.724886
+! INFO-     Degeneracy in b-spline entity 94780 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -10.129446 -86.314661 -18.888922
+! INFO-     Degeneracy in b-spline entity 94780 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -10.129471 -86.314676 -18.888920
+! INFO-     Degeneracy in b-spline entity 94780 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -10.129495 -86.314690 -18.888919
+! INFO-     Degeneracy in b-spline entity 94780 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -10.129519 -86.314704 -18.888917
+! INFO-     Degeneracy in b-spline entity 94806 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -8.813728 -86.349295 -15.476036
+! INFO-     Degeneracy in b-spline entity 94806 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -8.813752 -86.349280 -15.476035
+! INFO-     Degeneracy in b-spline entity 94806 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -8.813775 -86.349265 -15.476033
+! INFO-     Degeneracy in b-spline entity 94806 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -8.813798 -86.349251 -15.476031
+! INFO-     Degeneracy in b-spline entity 94806 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -8.813820 -86.349236 -15.476029
+! INFO-     Degeneracy in b-spline entity 94806 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -8.814533 -86.348776 -15.475976
+! INFO-     Degeneracy in b-spline entity 94811 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -10.132686 -88.506202 -14.724476
+! INFO-     Degeneracy in b-spline entity 94811 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -10.132210 -88.506477 -14.724442
+! INFO-     Degeneracy in b-spline entity 94849 was corrected at or around these
+! INFO-     locations.  A shape change has resulted:
+! INFO-         -10.127038 -88.509446 -9.724067
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   fixing self-intersecting topology faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body contains fault: 13823 - RTSTES: Edge not on surface.
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body contains fault: 13823 - RTSTES: Edge not on surface.
+! WARNING-  solid body contains fault: 13804 - RTSTSX: Self-intersecting topology.
+! WARNING-  solid body (Body4) contains faults that could not be corrected
+! WARNING-   
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 985
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 986
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 987
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 988
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Standoff M3x251128695
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              8
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:25:21 AM
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Stack M3x25 Cap Screw_Nut x41128713
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              8
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:25:21 AM
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x10 Cap Screw x41128708
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:25:21 AM
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3 Threaded Sheet Inserts x41128703
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:25:21 AM
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\M3x14 Cap Screw x41128698
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:25:21 AM
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Hardware1128697
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     6
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              6
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:25:22 AM
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\Carbon Fiber1128724
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     6
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              6
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-APR-2025  1:25:22 AM
+! INFO-     Filing Part ..: C:\Users\user\Desktop\Alexey drone\GEPRC MK4 6in_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        53
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        49
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         4
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 14-APR-2025  1:25:22 AM
+! INFO-      
