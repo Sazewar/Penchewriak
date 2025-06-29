@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files\Siemens\NX 12.0\ugii\SWschema\dtk_xsl\dtk_181.xsl"?>
+<Log>
+<DtkApiVersion>181</DtkApiVersion>
+<DtkDllVersion>20171215</DtkDllVersion>
+<ProductMode>Psk</ProductMode>
+<InputFormat>SOLIDWORKS</InputFormat>
+<OutputFormat>PARASOLID</OutputFormat>
+<HealingFlag>0</HealingFlag>
+<ConfigFile>Error Loading Config File</ConfigFile>
+<FileName><![CDATA[C:\Users\user\Desktop\Дрон ЮВБ\up_rama_final.SLDPRT]]></FileName>
+<FileVersion>Warning unknown version</FileVersion>
+<OutPutFileName><![CDATA[C:\Users\user\Desktop\Дрон ЮВБ\up_rama_final.SLDPRT.x_t]]></OutPutFileName>
+<OutPutFileSize>1415</OutPutFileSize>
+<bill_of_materials>
+<component_root><path><![CDATA[C:\Users\user\Desktop\Дрон ЮВБ\up_rama_final.SLDPRT]]></path><type>Part</type><name><![CDATA[up_rama_final]]></name><status>dtkNoError</status><size>505293</size><unit>Millimeters</unit><version></version></component_root>
+</bill_of_materials>
+<components_info>
+<component>
+<path><![CDATA[C:\Users\user\Desktop\Дрон ЮВБ\up_rama_final.SLDPRT]]></path>
+<name><![CDATA[up_rama_final]]></name>
+<meta>
+<count>64</count>
+<property><title>SW- Имя файла</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Folder Name</title><value><![CDATA[C:\Users\rabot\OneDrive\Рабочий стол\work\5.Модели_ФЕФИЛОВ\SolidWorks_models\]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Short Date</title><value><![CDATA[06.02.2024]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Long Date</title><value><![CDATA[6 февраля 2024 г.]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Author</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Keywords</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Comments</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Title</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Subject</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Created Date</title><value><![CDATA[18 января 2024 г. 12:04:36]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Last Saved Date</title><value><![CDATA[6 февраля 2024 г. 16:44:20]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Last Saved By</title><value><![CDATA[rabot]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Configuration Name</title><value><![CDATA[По умолчанию]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-HasDesignTable</title><value><![CDATA[0]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-File Name</title><value><![CDATA[up_rama_final]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Folder Name(Folder Name)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Short Date(Short Date)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Long Date(Long Date)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Configuration Name(Configuration Name)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Author(Author)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Keywords(Keywords)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Comments(Comments)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Title(Title)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Subject(Subject)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Created Date(Created Date)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Last Saved Date(Last Saved Date)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-Last Saved By(Last Saved By)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>Component Type</title><value><![CDATA[0]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitSystem</title><value><![CDATA[4]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsLinear</title><value><![CDATA[0]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsLinearDecimalDisplay</title><value><![CDATA[1]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsLinearDecimalPlaces</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsLinearFractionDenominator</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsDualLinear</title><value><![CDATA[3]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsTimeUnits</title><value><![CDATA[1]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsPowerUnits</title><value><![CDATA[1]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsEnergyUnits</title><value><![CDATA[1]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsDualLinearDecimalDisplay</title><value><![CDATA[1]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsDualLinearDecimalPlaces</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsDualLinearFractionDenominator</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsAngular</title><value><![CDATA[0]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsAngularDecimalPlaces</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsMassPropLength</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsMassPropDecimalPlaces</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsMassPropMass</title><value><![CDATA[3]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsMassPropVolume</title><value><![CDATA[6]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsTimeDecimalPlaces</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsForce</title><value><![CDATA[3]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsForceDecimalPlaces</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsPowerDecimalPlaces</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsEnergyDecimalPlaces</title><value><![CDATA[2]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsDecimalRounding</title><value><![CDATA[0]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsLinearFeetAndInchesFormat</title><value><![CDATA[0]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsLinearRoundToNearestFraction</title><value><![CDATA[0]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsDualLinearRoundToNearestFraction</title><value><![CDATA[0]]></value><type>TypeFileProperty</type></property>
+<property><title>SW_UnitsDualLinearFeetAndInchesFormat</title><value><![CDATA[0]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-BOM Part Number(BOM Part Number)</title><value><![CDATA[]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-BOM Part Number</title><value><![CDATA[up_rama]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-File Title(File Title)</title><value><![CDATA[gost-part]]></value><type>TypeFileProperty</type></property>
+<property><title>IsCPReArchEnabled</title><value><![CDATA[1]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-File Title</title><value><![CDATA[up_rama_final]]></value><type>TypeFileProperty</type></property>
+<property><title>SW-MassProp-Config-0</title><value><![CDATA[0.01, -0.01, 0.00, 0.00, 0.03, 0.32, 0.00, 0.00, 0.00, 0.00, 0.00, -0.00, 1.000000, 0.000000]]></value><type>TypeFileProperty</type></property>
+<property><title>CREATED</title><value><![CDATA[18 января 2024 г. 12:04:36]]></value><type>TypeFileProperty</type></property>
+<property><title>LAST_RECORD</title><value><![CDATA[6 февраля 2024 г. 16:44:20]]></value><type>TypeFileProperty</type></property>
+</meta>
+<warnings>
+<warning><message><![CDATA[Warning : Missing configuration (null) into file C:\Users\user\Desktop\Дрон ЮВБ\up_rama_final.SLDPRT]]></message><type><![CDATA[Configuration]]></type></warning>
+</warnings>
+</component>
+</components_info>
+<output_files_written>
+<file><path><![CDATA[C:\Users\user\Desktop\Дрон ЮВБ\up_rama_final.SLDPRT.x_t]]></path><size>1415</size></file>
+</output_files_written>
+<inventory_writer>
+<output_file>
+<path><![CDATA[C:\Users\user\Desktop\Дрон ЮВБ\up_rama_final.SLDPRT.x_t]]></path>
+<inventory>
+<entity><count>1</count><type>12 : BODY</type></entity>
+<entity><count>1</count><type>13 : SHELL</type></entity>
+<entity><count>1</count><type>18 : VERTEX</type></entity>
+<entity><count>1</count><type>19 : REGION</type></entity>
+<entity><count>1</count><type>29 : POINT</type></entity>
+<entity><count>6</count><type>DTK_PUBLICATION</type></entity>
+<entity><count>11</count><type>TOTAL</type></entity>
+</inventory>
+</output_file>
+</inventory_writer>
+<information>
+<info><message><![CDATA[PsKernel version used:28.0.197]]></message><type><![CDATA[Version]]></type></info>
+<info><message><![CDATA[OK Find Schema : C:\Program Files\Siemens\NX 12.0\ugii\SWschema\sch_10004.s_t]]></message><type><![CDATA[Schema]]></type></info>
+</information>
+<Conversion>
+<Start>  02:48:56</Start>
+<End>  02:48:56</End>
+<Duration>0 sec</Duration>
+</Conversion>
+</Log>
